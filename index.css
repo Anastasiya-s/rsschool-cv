@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+}
+
+.page-header {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1024px;
+}
+
+.page-nav__list {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+
+.page-nav__link {
+  padding: 5px 10px;
+  text-decoration: none;
+}
+
+.page-nav__link:hover {
+  color: blueviolet;
+}
+
+.page-nav__link:active {
+  color: orchid;
+}
