@@ -6,7 +6,7 @@
 
  ## Personal info
  I'm exited to learn new things, to travel to new places. My most important goal and wish is to have a job, that challenges me and allows to grow.
- About 2 years ago I wanted change my job. A little time later I started to learn HTML and CSS to become a layout designer, but I had to face it I want make more difficult things. So with learning JS I've decided to become Front-end Developer. Because it is a challenge to me. And I feel inspiration. And that's exactly what I appreciate in work. Developer job has a lot in common with my personal valuer like 
+ About 2 years ago I wanted change my job. Some time later I started to learn HTML and CSS to become a layout designer, and I realized that I want to do more difficult things. So with learning JS I've decided to become Front-end Developer. Because it is a challenge to me. And I feel inspired. And that's exactly what I appreciate in work. Developer job has a lot in common with my personal valuer like 
 
  ## Skills
  I have experience with 
@@ -55,10 +55,10 @@ export const List = styled.ul`
 
 ## Education
  ### Programming related courses
- * HTMLacademy
- * Udemy Modern React with Redux
+ * [HTMLacademy](https://htmlacademy.ru/profile/ana_stasya_s)
+ * [Udemy Modern React with Redux](https://www.udemy.com/react-redux/)
  * Coursera Full-Stack Web Development with React (a part about React)
- * Privat lessons
+ * Private lessons
 
  ### Not programming related education
  * Pinsk pedagogical college (Teacher of German language)
