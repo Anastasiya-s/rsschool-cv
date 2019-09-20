@@ -111,3 +111,33 @@ a {
 .footer__link:active {
   color: purple;
 }
+
+.experience__list {
+  margin-bottom: 20px;
+}
+
+.experience__item {
+  padding: 10px;
+}
+
+.education__list {
+  margin-bottom: 20px;
+}
+
+.education__item {
+  padding: 10px;
+}
+
+.education__link {
+  padding: 5px 10px;
+  text-decoration: none;
+  color: purple;
+}
+
+.education__link:hover {
+  color: blueviolet;
+}
+
+.education__link:active {
+  color: orchid;
+}
