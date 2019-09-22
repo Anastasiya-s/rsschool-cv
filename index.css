@@ -22,22 +22,18 @@ a {
   color: inherit;
 }
 
-.page-header {
+.container {
   margin: 0 auto;
   max-width: 1024px;
+}
+
+.page-header {
   padding: 20px 0;
   background-color: silver;
 }
 
-.page-main {
-  margin: 0 auto;
-  max-width: 1024px;
-}
-
 .page-footer {
-  margin: 0 auto;
   padding: 20px 0;
-  max-width: 1024px;
   display: flex;
   flex-flow: row nowrap;
   justify-content: center;
