@@ -28,12 +28,16 @@ a {
 }
 
 .page-header {
-  padding: 20px 0;
+  padding: 20px;
   background-color: silver;
 }
 
+.page-main {
+  padding: 20px;
+}
+
 .page-footer {
-  padding: 20px 0;
+  padding: 20px;
   display: flex;
   flex-flow: row nowrap;
   justify-content: center;
